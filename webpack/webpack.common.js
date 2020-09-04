@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
-    app: Path.resolve(__dirname, '../src/scripts/index.js'),
+    app: Path.resolve(__dirname, '../src/index.js'),
   },
   output: {
     path: Path.join(__dirname, '../build'),
@@ -26,8 +26,11 @@ module.exports = {
   ],
   resolve: {
     alias: {
+      svelte: Path.resolve('node_modules', 'svelte'),
       '~': Path.resolve(__dirname, '../src'),
     },
+    extensions: ['.js', '.svelte'],
+    mainFields: ['svelte', 'browser', 'module', 'main'],
   },
   module: {
     rules: [

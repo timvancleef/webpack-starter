@@ -37,6 +37,11 @@ module.exports = merge(common, {
         loader: 'babel-loader',
       },
       {
+        test: /\.svelte$/,
+        exclude: /node_modules/,
+        use: 'svelte-loader',
+      },
+      {
         test: /\.js$/,
         include: Path.resolve(__dirname, '../src'),
         enforce: 'pre',
