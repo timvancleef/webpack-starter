@@ -1,8 +1,8 @@
 # dependencies
-node_modules
+node_modules/
 
 # production
-build
+build/
 
 # misc
 .DS_Store
@@ -11,5 +11,5 @@ npm-debug.log
 yarn-error.log
 yarn.lock
 .yarnclean
-.vscode
+.vscode/
 .idea

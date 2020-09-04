@@ -5,10 +5,8 @@
     "node": true
   },
   "parserOptions": {
-    "ecmaVersion": 6,
+    "ecmaVersion": 2020,
     "sourceType": "module"
   },
-  "rules": {
-    "semi": 2
-  }
+  "extends": ["plugin:prettier/recommended"]
 }
