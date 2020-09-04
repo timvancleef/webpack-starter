@@ -41,17 +41,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15367d35-f4a4-40eb-9d06-847fc9812b57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webpack-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webpack-starter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack.config.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/webpack.config.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +92,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="149" y="346" key="SettingsEditor" timestamp="1599226293455">
+    <state x="149" y="346" key="SettingsEditor" timestamp="1599226596473">
       <screen x="0" y="23" width="2560" height="1369" />
     </state>
-    <state x="149" y="346" key="SettingsEditor/0.23.2560.1369@0.23.2560.1369" timestamp="1599226293455" />
+    <state x="149" y="346" key="SettingsEditor/0.23.2560.1369@0.23.2560.1369" timestamp="1599226596473" />
     <state x="431" y="336" width="670" height="676" key="search.everywhere.popup" timestamp="1599225617613">
       <screen x="0" y="23" width="2560" height="1369" />
     </state>
