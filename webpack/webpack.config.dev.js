@@ -24,6 +24,7 @@ module.exports = merge(common, {
     }),
     new StylelintPlugin({
       files: Path.join('src', '**/*.s?(a|c)ss')
+    }),
   ],
   module: {
     rules: [
