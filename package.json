@@ -83,7 +83,9 @@
       "^.+\\.js$": "babel-jest",
       "^.+\\.svelte$": "svelte-jester"
     },
-    "setupFilesAfterEnv": ["@testing-library/jest-dom/extend-expect"],
+    "setupFilesAfterEnv": [
+      "@testing-library/jest-dom/extend-expect"
+    ],
     "moduleFileExtensions": [
       "js",
       "svelte"
